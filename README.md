@@ -1,5 +1,5 @@
 # ChurnModel
-Telecommunication customer churn model
+### Telecommunication customer churn model
 
 In a competitive market, every product and service company faces the challenging task of retaining its customers while trying to attract new customers. Customer churn is a major business problem faced by any company, whether old or new. Churn prediction helps companies identify the key characterisitcs of customers that are most likely to leave the company. <br>
 
